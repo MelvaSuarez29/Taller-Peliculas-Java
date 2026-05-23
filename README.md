@@ -23,8 +23,7 @@ Este proyecto es una aplicación en Java que permite gestionar un catálogo de p
 - Visualización de películas en orden alfabético con:  `TreeSet`
 
 ## Herramientas 
-
 - Java 11 o superior
 - IntelliJ IDEA 
-- Colecciones de Java (`java.util.*`)
+- Colecciones de Java `java.util.*`
 
