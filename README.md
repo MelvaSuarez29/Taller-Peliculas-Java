@@ -1,4 +1,4 @@
-# Sustema de Peliculas
+# Sistema de Películas
 
 Este proyecto es una aplicación en Java que permite gestionar un catálogo de películas utilizando colecciones del framework de Java (`List`, `Set`, `Map`, `TreeSet`). Implementa un menú interactivo por consola para realizar operaciones como agregar, buscar, ordenar y agrupar películas por género.
 
